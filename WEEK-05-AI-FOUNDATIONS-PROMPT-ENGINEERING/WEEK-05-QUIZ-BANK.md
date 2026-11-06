@@ -41,12 +41,21 @@
 29. Why should sources and calculations be checked?
 30. What details should a prompt library record?
 
+26. What is Prompt Coach?
+27. Name two things a good Prompt Coach should do before rewriting a prompt.
+28. Why should a user review a rewritten prompt?
+29. What should Prompt Coach do if essential information is missing?
+30. What is one difference between a useful alternative prompt and an unnecessarily long prompt?
+
 ## Scenario questions
-31. An AI gives a convincing but unsupported statistic. What should you do?
-32. A student wants to upload a class list with phone numbers to an AI tool. What is the safe response?
-33. A prompt asks for a 10-slide presentation but does not name the topic or audience. What is missing?
-34. An assistant can connect to cloud files. What should be checked before connecting?
-35. A generated explanation contains a wrong fact. Write a focused revision instruction and describe how you will verify it.
+36. An AI gives a convincing but unsupported statistic. What should you do?
+37. A student wants to upload a class list with phone numbers to an AI tool. What is the safe response?
+38. A prompt asks for a 10-slide presentation but does not name the topic or audience. What is missing?
+39. An assistant can connect to cloud files. What should be checked before connecting?
+40. A generated explanation contains a wrong fact. Write a focused revision instruction and describe how you will verify it.
+
+41. A student uses Prompt Coach, but it adds an exam date and grade level that the student never provided. What should the student do?
+42. Two Prompt Coach alternatives are offered: one short and accurate, one long but full of assumptions. Which should the student choose and why?
 
 ## Practical demonstration
 - Explain AI, ML and DL using a simple diagram.
@@ -55,3 +64,4 @@
 - Request a structured table.
 - Demonstrate one verification step.
 - Present three entries from your prompt library.
+- Demonstrate Prompt Coach on one rough idea and explain how you checked its result.
