@@ -36,6 +36,39 @@ Common external connections include USB, HDMI, DisplayPort, Ethernet, audio, and
 ### Compatibility
 A component must match the motherboard, case, power supply, and other system requirements. For example, RAM must be supported by the motherboard. Never force a component into a slot or connector.
 
+### Visual: Main parts inside a desktop system unit
+
+This is a conceptual map. The physical position and connections of components vary by computer model.
+
+```mermaid
+flowchart TB
+    CASE[Desktop system unit]
+    CASE --> MB[Motherboard]
+    MB --> CPU[CPU]
+    MB --> RAM[RAM modules]
+    MB --> GPU[GPU, if installed]
+    MB --> NET[Network interface]
+    MB --> STORE[Storage connection]
+    STORE --> SSD[SSD or HDD]
+    CASE --> PSU[Power supply unit]
+    CASE --> COOL[Fans and cooling]
+    MB --> CMOS[CMOS battery]
+```
+
+### Visual: Safe hardware inspection sequence
+
+```mermaid
+flowchart TD
+    A[Save work and shut down] --> B[Switch off and disconnect power]
+    B --> C[Follow ESD and lab safety procedure]
+    C --> D[Instructor authorizes inspection]
+    D --> E[Identify components carefully]
+    E --> F[Do not force parts or open PSU]
+    F --> G[Instructor checks and closes system]
+```
+
+**Safety reminder:** Never open a PSU or work inside a powered computer. Internal inspection is only on an instructor-approved spare desktop under direct supervision.
+
 ## 3. Essential safety rules
 
 1. Shut down the computer properly.
