@@ -62,25 +62,28 @@ Computers can work quickly, repeat tasks consistently, store large amounts of da
 - **Abacus:** An ancient counting tool using beads. It helped people perform arithmetic.
 - **Mechanical calculating machines:** Devices such as Blaise Pascal's Pascaline (17th century) used mechanical parts to help with arithmetic.
 - **Charles Babbage's designs:** The Difference Engine and Analytical Engine were important ideas in the history of programmable computing. The Analytical Engine included concepts similar to memory and a processor.
-- **Herman Hollerith's punched-card tabulating system:** Helped process large sets of census data.
-- **Electronic computers:** In the 20th century, electronic components made much faster and more flexible computing possible.
-- **Personal computers:** Smaller and more affordable computers brought computing into homes, schools, and offices.
+- **Herman Hollerith's punched-card tabulating system:** Used punched cards and electromechanical tabulating equipment to process large sets of census data. It was an important step in the development of data-processing systems.
+- **Electronic computers:** In the 20th century, electronic components made much faster and more flexible computing possible. Some early electronic computers were designed for particular scientific or military tasks; later systems became more general-purpose.
+- **Personal computers:** Microprocessor technology helped make smaller computers practical for homes, schools, and offices. The personal-computer era developed through many companies and designs, not one single machine.
 - **Modern computing:** Smartphones, cloud services, connected devices, and AI systems are now part of daily life.
 
 History is a gradual development. No single invention created the modern computer by itself.
 
 ## 4. Lesson delivery plan
 
+**Practical-first structure:** 20 minutes of focused explanation, 90 minutes of guided student activity, and 10 minutes of review. Keep explanations short and return to the practical task whenever a new term is introduced.
+
 | Time | Instructor activity | Student activity |
 |---|---|---|
-| 0–10 min | Welcome, introduce course and ask where students see computers | Share examples |
-| 10–25 min | Explain computer, data and information | Identify data and information examples |
-| 25–40 min | Demonstrate IPOS using a simple marks example | Trace the four stages |
-| 40–55 min | Explain characteristics and limitations | Discuss examples |
-| 55–70 min | Show timeline/images of early calculating devices | Match device names to descriptions |
-| 70–100 min | Supervise practical activity | Complete IPOS worksheet and device survey |
-| 100–112 min | Check understanding with short quiz | Answer independently |
-| 112–120 min | Review and assign homework | Record homework |
+| 0–20 min | Explain the computer definition, data vs information, IPOS, and one short historical overview using familiar examples | Answer quick questions and predict the IPOS stages in a marks-sheet example |
+| 20–35 min | Demonstrate the IPOS activity once, then give clear task instructions | Watch the demonstration and prepare the recording table |
+| 35–60 min | Supervise Practical A and check each group's IPOS labels | Use a calculator or spreadsheet; record input, processing, output, and storage |
+| 60–85 min | Guide Practical B and prompt students to think about inputs and outputs | Survey classroom/everyday computer systems and complete the table |
+| 85–105 min | Provide historical-device cards or approved images; correct misconceptions | Match devices to descriptions and build a short timeline |
+| 105–110 min | Ask students to explain one example to a partner | Explain an IPOS example and one historical milestone |
+| 110–120 min | Review key ideas, check learning outcomes, and assign homework | Complete an exit check and record homework |
+
+## 5. Guided practical activities
 
 ## 5. Guided practical activities
 
