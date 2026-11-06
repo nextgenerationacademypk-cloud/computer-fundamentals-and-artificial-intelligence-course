@@ -111,7 +111,7 @@ You may also open Task Manager with **Ctrl + Shift + Esc** and select **Performa
 
 | Time | Instructor activity | Student activity |
 |---|---|---|
-| 0–20 min | Explain CPU, RAM, storage and the desk/f filing-cabinet analogy | Identify each role in a familiar example |
+| 0–20 min | Explain CPU, RAM, storage and the desk and filing-cabinet analogy | Identify each role in a familiar example |
 | 20–35 min | Demonstrate the simplified program-opening and saving process | Arrange process cards in the correct order |
 | 35–55 min | Explain HDD/SSD and storage units using labelled examples | Compare drive labels and convert simple units |
 | 55–75 min | Demonstrate Settings > System > About | Locate processor, RAM, system type and Windows edition |
