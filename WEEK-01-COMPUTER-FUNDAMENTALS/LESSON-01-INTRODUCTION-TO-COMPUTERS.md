@@ -85,7 +85,6 @@ History is a gradual development. No single invention created the modern compute
 
 ## 5. Guided practical activities
 
-## 5. Guided practical activities
 
 ### Activity A — Identify the IPOS cycle
 Use a calculator or spreadsheet to add three numbers.
