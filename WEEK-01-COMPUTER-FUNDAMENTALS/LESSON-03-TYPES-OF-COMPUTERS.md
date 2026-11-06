@@ -58,16 +58,19 @@ flowchart TB
 
 ## 3. Lesson delivery plan
 
+**Practical-first structure:** 20 minutes of focused explanation, 90 minutes of guided student activity, and 10 minutes of review.
+
 | Time | Instructor activity | Student activity |
 |---|---|---|
-| 0–10 min | Ask students to name devices they use | Share examples |
-| 10–30 min | Explain desktop, laptop, tablet and smartphone | Compare devices |
-| 30–50 min | Explain workstation, server, mainframe and supercomputer | Take notes |
-| 50–65 min | Explain embedded computers | Identify examples |
-| 65–80 min | Demonstrate available devices or images | Observe features |
-| 80–105 min | Run classification and scenario activity | Work in pairs/groups |
-| 105–115 min | Quiz and oral review | Answer |
-| 115–120 min | Assign homework | Record task |
+| 0–20 min | Explain personal/portable, professional/large-scale, and embedded computer categories | Give familiar examples and ask classification questions |
+| 20–35 min | Demonstrate the classification table and explain server, mainframe, and supercomputer differences | Review task cards and ask questions |
+| 35–60 min | Supervise device sorting using real devices or printed cards | Classify devices and write the reason for each choice |
+| 60–80 min | Guide scenario-based computer selection | Recommend a suitable type for each scenario and justify the choice |
+| 80–100 min | Demonstrate a desktop/laptop comparison | Compare portability, upgrade options, power, screen, and typical use |
+| 100–110 min | Check group answers and correct overgeneralizations | Explain one choice to another group |
+| 110–120 min | Review key distinctions and assign homework | Complete an exit check and record homework |
+
+## 4. Practical activities
 
 ## 4. Practical activities
 
