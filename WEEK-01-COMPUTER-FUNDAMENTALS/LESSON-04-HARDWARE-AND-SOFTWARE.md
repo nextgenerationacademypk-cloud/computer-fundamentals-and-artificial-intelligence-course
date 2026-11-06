@@ -86,7 +86,6 @@ flowchart TB
 
 ## 5. Practical activities
 
-## 5. Practical activities
 
 ### Activity A — Hardware or software?
 Classify: keyboard, Windows, monitor, browser, SSD, printer, spreadsheet app, CPU, printer driver, speakers.
