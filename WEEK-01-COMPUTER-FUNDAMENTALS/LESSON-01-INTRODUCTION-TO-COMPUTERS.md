@@ -42,6 +42,19 @@ Suppose a teacher has these marks: 65, 80, 72, and 83. These numbers are data. W
 
 A computer system needs instructions and suitable hardware and software to complete these steps.
 
+### Visual: The IPOS cycle
+
+The diagram shows how a computer accepts data, processes it, presents a result, and stores it.
+
+```mermaid
+flowchart LR
+    A[Input: keyboard, mouse, scanner] --> B[Processing: CPU follows instructions]
+    B --> C[Output: screen, printer, speakers]
+    C --> D[Storage: SSD, HDD, USB]
+```
+
+**Example:** A teacher enters student marks (input), a spreadsheet calculates the average (processing), displays the result (output), and saves the workbook (storage).
+
 ### Characteristics and limitations
 Computers can work quickly, repeat tasks consistently, store large amounts of data, and communicate with other devices. However, they can make errors when data or instructions are incorrect. They also need electricity or a charged battery, maintenance, and human direction.
 
