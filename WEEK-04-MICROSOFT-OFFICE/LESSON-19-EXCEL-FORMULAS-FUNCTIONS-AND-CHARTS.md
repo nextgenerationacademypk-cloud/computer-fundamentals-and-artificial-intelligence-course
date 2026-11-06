@@ -84,3 +84,14 @@ Teach one formula at a time. Students should predict a result before pressing En
 - [ ] Copy formulas with AutoFill and verify.
 - [ ] Apply conditional formatting.
 - [ ] Create a readable chart.
+
+
+## Visual learning aid — from data to insight
+```mermaid
+flowchart LR
+ A[Enter structured data] --> B[Write formula or function]
+ B --> C[Check result]
+ C --> D[Summarize values]
+ D --> E[Choose suitable chart]
+ E --> F[Explain the finding]
+```
