@@ -79,7 +79,6 @@ flowchart TD
 
 ## 6. Practical activity — Build a computer timeline
 
-## 6. Practical activity — Build a computer timeline
 In groups, prepare a five-column chart. For each generation, include:
 - Main technology.
 - One important feature.
