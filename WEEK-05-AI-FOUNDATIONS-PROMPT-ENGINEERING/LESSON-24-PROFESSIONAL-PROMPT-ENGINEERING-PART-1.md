@@ -35,13 +35,45 @@ Weak: “Explain Excel.”
 
 Improved: “Explain what a spreadsheet is to a beginner who has never used Excel. Use simple English, give one school marks example, explain rows, columns and cells, and finish with three practice questions.”
 
-### 4. Zero-shot and few-shot prompting
+### 4. Prompt Coach — turning a rough idea into a clear prompt
+
+A **Prompt Coach** is a reusable instruction that asks an AI assistant to help improve another prompt. It is useful when a student knows what they want but is unsure how to explain it.
+
+A good Prompt Coach should:
+1. Understand the user's real goal and preserve the original meaning.
+2. Identify missing context, audience, requirements or output format.
+3. Improve clarity and organize instructions.
+4. State assumptions instead of inventing facts or personal details.
+5. Offer useful alternatives, such as simple, detailed and structured versions.
+6. Explain the main improvements and recommend a version.
+
+**Important:** Prompt Coach is a helper, not a guarantee. Students must review the rewritten prompt before using it. If an essential detail is missing, ask a question rather than allowing the AI to guess.
+
+#### Instructor demonstration
+
+Rough idea: “Make a presentation about computers.”
+
+Ask Prompt Coach to improve it. A suitable result might specify:
+- Audience: beginner students.
+- Purpose: introduce computer fundamentals.
+- Length: six slides.
+- Topics: definition, hardware, software, input/output and everyday uses.
+- Language: simple English.
+- Output: slide-by-slide content with one example per slide.
+
+Discuss what was added and whether it matches the original intention.
+
+#### Reusable Prompt Coach template
+
+Students can copy the complete template from [My Prompt Coach — Reusable Template](PROMPT-COACH-TEMPLATE.md). They should replace the rough-idea placeholder with their own request.
+
+### 5. Zero-shot and few-shot prompting
 Zero-shot prompting gives an instruction without examples. Few-shot prompting provides one or more examples of the desired style or structure. Examples are useful when the output must follow a pattern. They do not guarantee factual accuracy.
 
-### 5. Ask for useful output structure
+### 6. Ask for useful output structure
 Specify headings, number of items, table columns or step order. For technical work, request assumptions, test cases and a concise explanation. Do not ask a model to reveal hidden private reasoning; ask for a short explanation, evidence and checks that can be verified.
 
-### 6. Prompt quality checklist
+### 7. Prompt quality checklist
 - Is the task clear?
 - Is the audience stated?
 - Is relevant context included?
@@ -49,7 +81,11 @@ Specify headings, number of items, table columns or step order. For technical wo
 - Is the format specified?
 - Can the result be checked?
 
-## Practical activity — prompt improvement
+## Practical activity — prompt improvement and Prompt Coach
+
+First, improve one vague prompt manually. Then use the Prompt Coach template on the same rough idea. Compare both improved versions. Check whether the AI preserved the original goal, added useful context and avoided invented details. Select the better prompt and explain why.
+
+
 In pairs, improve five vague prompts: “Make a CV,” “Teach me computers,” “Write a report,” “Make a quiz,” and “Explain AI.” For each, add audience, context, output format and constraints. Test one prompt with an approved tool or use a teacher-provided output.
 
 ## Understanding check
@@ -59,6 +95,8 @@ In pairs, improve five vague prompts: “Make a CV,” “Teach me computers,”
 4. What is few-shot prompting?
 5. Why specify an audience?
 6. What should you request instead of hidden reasoning?
+7. What is Prompt Coach, and why must you review its rewritten prompt?
+8. What should it do when essential information is missing?
 
 ## Homework
 Write five improved prompts for learning, writing, research, spreadsheet help and presentation planning. Label the task, audience and format.
@@ -71,6 +109,7 @@ Show before-and-after examples. Encourage students to revise one element at a ti
 - [ ] Student improves a vague prompt.
 - [ ] Student specifies a useful output format.
 - [ ] Student applies the prompt checklist.
+- [ ] Student uses Prompt Coach and checks that it preserved the original intention.
 
 ## Lesson delivery plan
 | Time | Activity |
