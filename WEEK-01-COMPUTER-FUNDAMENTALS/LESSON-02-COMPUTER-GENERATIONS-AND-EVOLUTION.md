@@ -37,6 +37,18 @@ The term is often used for advanced computing, including AI, natural-language sy
 ### How computers evolved
 Across many decades, computers generally became more compact, powerful, affordable, connected, and energy-efficient. Modern systems can use cloud computing and AI services, but they still depend on hardware, software, data, and human decisions.
 
+### Visual: Five commonly taught computer generations
+
+```mermaid
+flowchart TD
+    G1[First: Vacuum tubes] --> G2[Second: Transistors]
+    G2 --> G3[Third: Integrated circuits]
+    G3 --> G4[Fourth: Microprocessors]
+    G4 --> G5[Fifth: Advanced and AI-oriented computing]
+```
+
+**Remember:** This is a traditional teaching framework. Dates and the meaning of the fifth generation vary between sources; not every computer fits neatly into one category.
+
 ## 4. Comparison table
 
 | Common generation | Main technology | General change |
