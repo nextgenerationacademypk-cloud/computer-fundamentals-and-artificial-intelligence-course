@@ -107,3 +107,14 @@ Demonstrate slowly on the projector, then let students repeat each step. Check t
 - [ ] Apply paragraph alignment and lists.
 - [ ] Set page size and margins.
 - [ ] Review spelling and export PDF.
+
+
+## Visual learning aid — document workflow
+```mermaid
+flowchart LR
+ A[Create document] --> B[Enter and edit text]
+ B --> C[Format paragraphs and page]
+ C --> D[Review content]
+ D --> E[Save editable file]
+ E --> F[Export and inspect PDF]
+```
