@@ -75,15 +75,17 @@ Every lesson package should include student notes, learning objectives, key term
 | Area | Status |
 |---|---|
 | Approved 8-week / 40-lesson master curriculum | Approved |
-| Week 1 detailed teaching package | Added to repository; first quality refinement and file verification completed; real academy photographs/screenshots and classroom pilot remain outstanding |
-| Week 2 detailed teaching package | Added and verified; real classroom screenshots remain outstanding |
-| Week 3 detailed teaching package | Added and verified: five lessons, workbook, quiz bank, instructor key, assessment and visual guide; real academy screenshots and classroom pilot remain outstanding |
-| Week 4 detailed teaching package | Added and verified: five lessons, workbook, quiz bank, instructor key, assessment and visual guide; genuine academy screenshots and classroom pilot remain outstanding |
-| Weeks 5–8 detailed teaching packages | To be developed |
+| Week 1 detailed teaching package | Added; first refinement and file verification complete; real academy photos/screenshots and classroom pilot outstanding |
+| Week 2 detailed teaching package | Added and verified; real classroom screenshots and classroom pilot outstanding |
+| Week 3 detailed teaching package | **Requires completion/verification.** The current folder landing page is not sufficient evidence of a full five-lesson package. |
+| Week 4 detailed teaching package | Added; lessons, workbook, quiz, instructor key, assessment and visual guide created; final link and classroom review outstanding |
+| Week 5 detailed teaching package | To be developed |
+| Week 6 detailed teaching package | **Added:** five lessons, workbook, quiz bank, instructor-only key, 50-mark assessment, visual guide and week navigation. Repository files fetched and checked for key sections. |
+| Weeks 7–8 detailed teaching packages | To be developed |
 | Complete instructor guide | To be developed |
 | Student orientation and workbook resources | To be developed |
 | Assessment templates and answer keys | To be organized and reviewed |
-| Visual resources and screenshots | To be created/curated and checked |
+| Genuine visual resources and screenshots | To be captured/curated and checked |
 | Final quality audit | Pending |
 
-Do not mark a section complete until its actual files have been added and reviewed.
+Do not mark a section complete until its actual files have been added and reviewed. “Added” does not mean classroom-piloted or externally accredited.
