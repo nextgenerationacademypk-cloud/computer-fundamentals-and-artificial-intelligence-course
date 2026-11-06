@@ -72,7 +72,6 @@ flowchart TB
 
 ## 4. Practical activities
 
-## 4. Practical activities
 
 ### Activity A — Device classification
 Classify each item as personal/portable, professional/large-scale, or embedded:
