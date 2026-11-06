@@ -39,6 +39,10 @@ Across many decades, computers generally became more compact, powerful, affordab
 
 ### Visual: Five commonly taught computer generations
 
+![Educational timeline showing the five commonly taught generations of computers](COMPUTER-GENERATIONS-TIMELINE.svg)
+
+*This is an educational vector illustration, not a set of authentic historical photographs. The fifth-generation label is a broad teaching category; its definition and dates vary between sources.*
+
 ```mermaid
 flowchart TD
     G1[First: Vacuum tubes] --> G2[Second: Transistors]
