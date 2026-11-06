@@ -26,24 +26,24 @@
 23. Prompting without supplying examples.
 24. Prompting with one or more examples.
 25. Award for clear topic, audience, scope, format and constraints.
-26. Reviewing an output and giving focused follow-up instructions to improve it.
-27. It makes a complex task easier to review and control.
-28. Table, numbered steps, checklist, JSON-like structure where appropriate, etc.
-29. Models can invent or misstate information; independent checks establish reliability.
-30. Title/purpose, complete prompt, sample input, date/tool, result notes, checks and limitations.
-31. Verify with reliable independent sources; do not repeat as fact until checked.
-32. Do not upload; use fictional/anonymized data and follow academy policy.
-33. Topic, audience, goal, content scope, format/design requirements and constraints.
-34. Permissions, data scope, privacy policy, account ownership and whether the connection is approved.
-35. Award for identifying the error, giving a precise correction request and verifying against a trusted source.
+26. A reusable instruction that helps clarify, structure and improve a rough prompt.
+27. Understand the user's goal; preserve intent; identify missing context; add clear constraints/format; avoid inventing details (any two).
+28. It may misunderstand the goal, add incorrect assumptions or produce a prompt that does not fit the task.
+29. Ask a clarifying question or clearly label an assumption; do not invent facts or personal details.
+30. A useful alternative fits the task; extra length without relevant context does not improve quality.
+31. Reviewing an output and giving focused follow-up instructions to improve it.
+32. It makes a complex task easier to review and control.
+33. Table, numbered steps, checklist, JSON-like structure where appropriate, etc.
+34. Models can invent or misstate information; independent checks establish reliability.
+35. Title/purpose, complete prompt, sample input, date/tool, result notes, checks and limitations.
+36. Verify with reliable independent sources; do not repeat as fact until checked.
+37. Do not upload; use fictional/anonymized data and follow academy policy.
+38. Topic, audience, goal, content scope, format/design requirements and constraints.
+39. Permissions, data scope, privacy policy, account ownership and whether the connection is approved.
+40. Award for identifying the error, giving a precise correction request and verifying against a trusted source.
 
 For Prompt Coach scenarios, accept equivalent answers that preserve the user's intent, identify unsupported assumptions and require review/testing before use.
 
-36. A reusable instruction that helps clarify, structure and improve a rough prompt.
-37. Understand the user's goal; preserve intent; identify missing context; add clear constraints/format; avoid inventing details (any two).
-38. It may misunderstand the goal, add incorrect assumptions or produce a prompt that does not fit the task.
-39. Ask a clarifying question or clearly label an assumption; do not invent facts or personal details.
-40. A useful alternative fits the task; extra length without relevant context does not improve quality.
 41. Remove the invented details and ask Prompt Coach to ask questions or label assumptions; use only accurate information.
 42. Choose the short accurate version, because correctness and fit matter more than length.
 
