@@ -34,18 +34,19 @@
 24. What is few-shot prompting?
 25. Rewrite “Make a presentation” for a beginner audience with a clear format.
 
-## Lesson 25 — Prompt engineering Part 2
-26. What is iterative prompting?
-27. Why split a large task into stages?
-28. Give two examples of structured output formats.
-29. Why should sources and calculations be checked?
-30. What details should a prompt library record?
-
+## Prompt Coach — Lesson 24 extension
 26. What is Prompt Coach?
 27. Name two things a good Prompt Coach should do before rewriting a prompt.
 28. Why should a user review a rewritten prompt?
 29. What should Prompt Coach do if essential information is missing?
 30. What is one difference between a useful alternative prompt and an unnecessarily long prompt?
+
+## Lesson 25 — Prompt engineering Part 2
+31. What is iterative prompting?
+32. Why split a large task into stages?
+33. Give two examples of structured output formats.
+34. Why should sources and calculations be checked?
+35. What details should a prompt library record?
 
 ## Scenario questions
 36. An AI gives a convincing but unsupported statistic. What should you do?
