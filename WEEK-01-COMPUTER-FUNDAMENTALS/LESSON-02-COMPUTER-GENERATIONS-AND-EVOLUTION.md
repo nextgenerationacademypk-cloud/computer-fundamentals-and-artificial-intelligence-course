@@ -35,7 +35,7 @@ A microprocessor places the central processing unit (CPU) on a chip. This develo
 The term is often used for advanced computing, including AI, natural-language systems, parallel processing, and other emerging technologies. There is no single universally accepted start date or definition for this generation.
 
 ### How computers evolved
-Across many decades, computers generally became more compact, powerful, affordable, connected, and energy-efficient. Modern systems can use cloud computing and AI services, but they still depend on hardware, software, data, and human decisions.
+Across many decades, computers generally became more compact, powerful, affordable, connected, and energy-efficient. These changes did not happen at the same speed in every type of computer, and older technologies continued to be used while newer ones developed. Modern systems can use cloud computing and AI services, but they still depend on hardware, software, data, and human decisions.
 
 ### Visual: Five commonly taught computer generations
 
@@ -65,16 +65,19 @@ flowchart TD
 
 ## 5. Lesson delivery plan
 
+**Practical-first structure:** 20 minutes of focused explanation, 90 minutes of guided student activity, and 10 minutes of review.
+
 | Time | Instructor activity | Student activity |
 |---|---|---|
-| 0–10 min | Review IPOS and introduce the idea of change | Recall prior lesson |
-| 10–30 min | Explain first and second generations | Complete comparison notes |
-| 30–50 min | Explain third and fourth generations | Match technology cards |
-| 50–65 min | Discuss fifth-generation terminology and AI | Give examples |
-| 65–85 min | Show a visual timeline and old/new computer images | Observe and compare |
-| 85–105 min | Supervise group timeline activity | Build a five-generation timeline |
-| 105–115 min | Short quiz | Answer individually |
-| 115–120 min | Review and homework | Record homework |
+| 0–20 min | Explain why computer technology changed and introduce the five commonly taught generations | Match the five technology names to the correct sequence |
+| 20–35 min | Demonstrate how to read the timeline and compare one early and one modern computer | Identify the main technology and one visible difference |
+| 35–60 min | Supervise a five-column generation timeline | Build the timeline with technology, features, and one improvement per stage |
+| 60–80 min | Provide image/card sorting and correct inaccurate matches | Match vacuum tubes, transistors, ICs, and microprocessors to descriptions |
+| 80–100 min | Guide a comparison task using approved historical and current computer images | Compare size, components, input/output, power use, and typical use |
+| 100–110 min | Ask groups to explain why the fifth-generation label is less precise | Present one comparison and one limitation of the framework |
+| 110–120 min | Review the four hardware milestones, clarify terminology, and assign homework | Complete an exit check and record homework |
+
+## 6. Practical activity — Build a computer timeline
 
 ## 6. Practical activity — Build a computer timeline
 In groups, prepare a five-column chart. For each generation, include:
