@@ -1,7 +1,7 @@
 # Week 1 — Computer Fundamentals and Hardware
 
 **Lessons:** 1–5  
-**Status:** Detailed lesson files and a weekly assessment have been added. Visual assets and a final quality review remain part of the course-wide completion phase.
+**Status:** Lesson notes, practical workbook, quiz bank, instructor answer key, assessment and editable visual learning aids are now in the repository. A final review and suitable image/screenshot assets remain part of the quality phase.
 
 ## Lesson packages
 
@@ -13,11 +13,18 @@
 
 Each lesson includes learning outcomes, student lecture notes, a 120-minute delivery plan, practical activities, understanding checks, homework, instructor notes, and a completion checklist.
 
-## Weekly assessment
+## Week 1 student resources
 
-[Week 1 Assessment and Instructor Record](WEEK-01-ASSESSMENT-AND-INSTRUCTOR-RECORD.md)
+- [Practical Workbook](WEEK-01-PRACTICAL-WORKBOOK.md) — guided activities, recording tables, safety checklist and instructor sign-off.
+- [Quiz Bank](WEEK-01-QUIZ-BANK.md) — lesson-based questions, mixed revision and scenario questions.
+- [Visual Learning Aids](WEEK-01-VISUAL-LEARNING-AIDS.md) — editable Mermaid diagrams, image plan and visual quality standards.
 
-Includes a 20-mark written quiz, 20-mark practical assessment, 10-mark homework/participation rubric, instructor answer guide, and student result record.
+## Instructor-only resources
+
+- [Quiz Answer Key — Instructor Only](WEEK-01-QUIZ-ANSWER-KEY-INSTRUCTOR-ONLY.md)
+- [Week 1 Assessment and Instructor Record](WEEK-01-ASSESSMENT-AND-INSTRUCTOR-RECORD.md)
+
+Do not distribute instructor answer keys with student handouts.
 
 ## Week 1 learning outcomes
 
@@ -42,6 +49,6 @@ Students must never open a power supply unit, work inside a powered computer, fo
 
 ## Remaining Week 1 quality work
 
-- Add clear labelled diagrams and suitable screenshots/visual aids.
-- Check all lesson files against the master curriculum and classroom delivery conditions.
-- Add any additional student worksheets needed after pilot teaching.
+- Add and verify suitable high-resolution image assets and real classroom screenshots.
+- Check every diagram and screenshot for accuracy, accessibility, privacy, and licensing.
+- Pilot the activities and quizzes and revise based on evidence.
