@@ -21,6 +21,7 @@ Students develop a realistic understanding of AI, machine learning, deep learnin
 - [Week 5 Assessment and Instructor Record](WEEK-05-ASSESSMENT-AND-INSTRUCTOR-RECORD.md)
 - [Week 5 Visual and Activity Guide](WEEK-05-VISUAL-AND-ACTIVITY-GUIDE.md)
 - [My Prompt Coach — Reusable Student Template](PROMPT-COACH-TEMPLATE.md)
+- [Week 5 Classroom Pilot and Validation Pack](WEEK-05-CLASSROOM-PILOT-AND-VALIDATION.md)
 
 ## Standard lesson delivery
 Each lesson is 120 minutes: approximately 20 minutes theory, 90 minutes practical work and 10 minutes review. Use instructor demonstrations and offline alternatives where internet or account access is unavailable.
