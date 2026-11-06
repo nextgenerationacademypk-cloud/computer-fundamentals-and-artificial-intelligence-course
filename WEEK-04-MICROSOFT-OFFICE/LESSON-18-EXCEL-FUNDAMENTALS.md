@@ -79,3 +79,13 @@ Teach the data structure before decorative formatting. Use fictional records. Ch
 - [ ] Create a table.
 - [ ] Sort and filter full records safely.
 - [ ] Freeze headings and save the workbook.
+
+
+## Visual learning aid — spreadsheet structure
+```mermaid
+flowchart TD
+ A[Workbook file] --> B[Worksheet]
+ B --> C[Rows and columns]
+ C --> D[Cell: column + row]
+ D --> E[Range: group of cells]
+```
