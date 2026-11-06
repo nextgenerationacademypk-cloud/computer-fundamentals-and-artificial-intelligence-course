@@ -1,7 +1,7 @@
 # Week 1 — Computer Fundamentals and Hardware
 
 **Lessons:** 1–5  
-**Status:** Lesson notes, practical workbook, quiz bank, instructor answer key, assessment and editable visual learning aids are now in the repository. A final review and suitable image/screenshot assets remain part of the quality phase.
+**Status:** All five lesson packages, student workbook, quiz bank, instructor-only answer key, weekly assessment, and visual guidance are present. The lesson plans and technical explanations have received a first quality refinement; actual academy photographs/screenshots and classroom pilot feedback remain outstanding.
 
 ## Lesson packages
 
@@ -11,7 +11,7 @@
 4. [Lesson 4 — Computer Hardware and Software](LESSON-04-HARDWARE-AND-SOFTWARE.md)
 5. [Lesson 5 — Inside the System Unit](LESSON-05-INSIDE-THE-SYSTEM-UNIT.md)
 
-Each lesson includes learning outcomes, student lecture notes, topic-specific Mermaid diagrams placed beside the relevant explanations, a 120-minute delivery plan, practical activities, understanding checks, homework, instructor notes, and a completion checklist.
+Each lesson includes learning outcomes, student lecture notes, topic-specific diagrams beside relevant explanations, a 120-minute delivery plan, practical activities, understanding checks, homework, instructor notes, and a completion checklist. The delivery plan follows the approved 20-minute explanation, 90-minute guided practical work, and 10-minute review structure.
 
 ## Week 1 student resources
 
@@ -47,8 +47,15 @@ By the end of this week, students should be able to:
 
 Students must never open a power supply unit, work inside a powered computer, force a component, or open a personal computer without permission and direct supervision. Use a spare training desktop for internal inspection.
 
-## Remaining Week 1 quality work
+## Quality review and remaining work
 
-- Add and verify suitable high-resolution image assets and real classroom screenshots.
-- Check every diagram and screenshot for accuracy, accessibility, privacy, and licensing.
-- Pilot the activities and quizzes and revise based on evidence.
+The first refinement pass has:
+- Aligned all five lesson delivery plans with the approved practical-first timing.
+- Added clearer historical context for punched-card data processing and the development of personal computers.
+- Expanded the system-unit explanation of SATA data/power, M.2, and PCI Express connectors.
+- Retained separate student and instructor-only assessment resources.
+
+Still required before classroom delivery:
+- Add genuine academy hardware photographs and screenshots captured from the software versions used in the lab.
+- Check image rights, captions, alternative text, readability, and privacy before committing assets.
+- Pilot the activities with a small student group and adjust timing, instructions, and assessment difficulty based on evidence.
