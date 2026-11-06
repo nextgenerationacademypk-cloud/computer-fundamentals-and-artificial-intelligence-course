@@ -20,6 +20,7 @@ Students develop a realistic understanding of AI, machine learning, deep learnin
 - [Week 5 Quiz Answer Key — Instructor Only](WEEK-05-QUIZ-ANSWER-KEY-INSTRUCTOR-ONLY.md)
 - [Week 5 Assessment and Instructor Record](WEEK-05-ASSESSMENT-AND-INSTRUCTOR-RECORD.md)
 - [Week 5 Visual and Activity Guide](WEEK-05-VISUAL-AND-ACTIVITY-GUIDE.md)
+- [My Prompt Coach — Reusable Student Template](PROMPT-COACH-TEMPLATE.md)
 
 ## Standard lesson delivery
 Each lesson is 120 minutes: approximately 20 minutes theory, 90 minutes practical work and 10 minutes review. Use instructor demonstrations and offline alternatives where internet or account access is unavailable.
@@ -33,6 +34,9 @@ Each lesson is 120 minutes: approximately 20 minutes theory, 90 minutes practica
 
 ## Responsible AI and privacy rules
 Never enter passwords, one-time codes, identity documents, private messages, payment details or confidential student/academy records into public AI tools. Use fictional examples. Check product terms, account permissions and age requirements. AI-generated content must be reviewed; important claims need independent verification.
+
+## Prompt Coach practical tool
+Students learn to turn rough ideas into clear prompts using a reusable Prompt Coach template. They compare alternatives, check that the original intention is preserved, remove invented assumptions and test the selected prompt. This is integrated into Lessons 24–25 and the workbook; it is not an additional lesson.
 
 ## Assessment
 Week 5 uses a 50-mark assessment: written quiz 20, practical tasks 20, homework/prompt library/participation 10. Students are assessed on understanding, prompt clarity, safe use and verification—not on access to paid tools.
