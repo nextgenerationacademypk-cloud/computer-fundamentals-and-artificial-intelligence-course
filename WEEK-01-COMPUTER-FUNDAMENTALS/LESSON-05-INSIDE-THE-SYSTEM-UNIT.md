@@ -30,8 +30,15 @@ The system unit is the computer case that contains important internal components
 - **Cooling system:** Fans and heatsinks help remove heat from components.
 - **CMOS battery:** Helps maintain the real-time clock and certain firmware settings when the computer is unplugged.
 
-### Ports and connectors
-Common external connections include USB, HDMI, DisplayPort, Ethernet, audio, and power. Internal connections may include SATA data/power connectors and motherboard power connectors. Ports vary by computer model.
+### Ports, slots, and connectors
+Common external connections include USB, HDMI, DisplayPort, Ethernet, audio, and power. Internal connections may include:
+- **SATA data connector:** Connects a compatible SATA drive to the motherboard.
+- **SATA power connector:** Supplies power from the PSU to a SATA drive.
+- **M.2 slot:** Can support an M.2 SSD or another compatible module; the supported interface and keying depend on the motherboard.
+- **PCI Express (PCIe) slot:** Connects compatible expansion cards, such as a graphics or network card.
+- **Motherboard power connectors:** Supply power from the PSU to the motherboard and, where required, the CPU.
+
+Do not assume every motherboard has every connector. Always check the model's manual or labels.
 
 ### Compatibility
 A component must match the motherboard, case, power supply, and other system requirements. For example, RAM must be supported by the motherboard. Never force a component into a slot or connector.
@@ -84,16 +91,19 @@ flowchart TD
 
 ## 4. Lesson delivery plan
 
+**Practical-first structure:** 20 minutes of focused explanation and safety briefing, 90 minutes of supervised identification/practice, and 10 minutes of review. The instructor may shorten hands-on work if the training computer or lab conditions are not safe.
+
 | Time | Instructor activity | Student activity |
 |---|---|---|
-| 0–10 min | Review hardware/software | Answer questions |
-| 10–30 min | Introduce system unit and components | Observe real parts |
-| 30–50 min | Explain component functions | Complete component worksheet |
-| 50–65 min | Demonstrate ports and connectors | Identify ports |
-| 65–80 min | Explain and demonstrate safety rules | Repeat safety checklist |
-| 80–105 min | Supervise component identification on a training desktop | Identify and label parts |
-| 105–115 min | Oral/practical check | Identify selected components |
-| 115–120 min | Review and assign homework | Record homework |
+| 0–20 min | Explain system-unit components, ports, connectors, compatibility, and non-negotiable safety rules | Identify components on a labelled diagram and repeat the safety rules |
+| 20–35 min | Demonstrate external inspection, safe shutdown, power disconnection, ESD procedure, and case opening | Observe, identify hazards, and complete the safety checklist |
+| 35–60 min | Lead a guided component-identification station | Identify motherboard, CPU/cooler, RAM, storage, PSU casing, GPU, fans, and CMOS battery |
+| 60–80 min | Demonstrate external ports and internal connectors using the training machine | Match USB, HDMI/DisplayPort, Ethernet, audio, SATA, and power connectors where present |
+| 80–100 min | Demonstrate RAM retention and safe handling; authorize student handling only if suitable | In small groups, identify the RAM slot/module; perform removal/reinstallation only with direct instructor approval |
+| 100–110 min | Inspect each group's labels and safe working habits; close the case and verify the computer | Report observations and identify one compatibility or safety concern |
+| 110–120 min | Review key component functions and safety rules; assign homework | Complete an exit check and record homework |
+
+## 5. Supervised practical
 
 ## 5. Supervised practical
 
