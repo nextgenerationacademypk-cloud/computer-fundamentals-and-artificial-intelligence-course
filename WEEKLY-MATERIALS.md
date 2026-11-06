@@ -75,8 +75,8 @@ Every lesson package should include student notes, learning objectives, key term
 | Area | Status |
 |---|---|
 | Approved 8-week / 40-lesson master curriculum | Approved |
-| Week 1 detailed teaching package | Developed in the planning conversation; repository copy to be added and checked |
-| Weeks 2–8 detailed teaching packages | To be developed |
+| Week 1 detailed teaching package | Added to repository; first quality refinement and file verification completed; real academy photographs/screenshots and classroom pilot remain outstanding |
+| Week 2 detailed teaching package | Added to repository; lesson packages, workbook, quiz bank, instructor key, assessment and visual guide created and verified; real classroom screenshots remain outstanding |\n| Weeks 3–8 detailed teaching packages | To be developed |
 | Complete instructor guide | To be developed |
 | Student orientation and workbook resources | To be developed |
 | Assessment templates and answer keys | To be organized and reviewed |
