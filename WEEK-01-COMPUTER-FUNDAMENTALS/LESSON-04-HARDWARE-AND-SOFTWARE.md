@@ -72,16 +72,19 @@ flowchart TB
 
 ## 4. Lesson delivery plan
 
+**Practical-first structure:** 20 minutes of focused explanation, 90 minutes of guided student activity, and 10 minutes of review.
+
 | Time | Instructor activity | Student activity |
 |---|---|---|
-| 0–10 min | Review computer types | Give examples |
-| 10–30 min | Explain hardware and software | Sort examples |
-| 30–50 min | Teach input, processing, output and storage | Label a diagram |
-| 50–65 min | Explain system and application software | Classify software |
-| 65–80 min | Demonstrate OS and driver examples | Observe |
-| 80–105 min | Supervise sorting and workflow activities | Complete practical |
-| 105–115 min | Quiz | Answer independently |
-| 115–120 min | Review | Record homework |
+| 0–20 min | Explain hardware/software, hardware functions, system software, application software, and drivers | Identify examples from the classroom |
+| 20–35 min | Demonstrate the sorting method and trace a simple typing task through hardware and software | Observe and prepare the classification table |
+| 35–60 min | Supervise hardware/software sorting | Sort real peripherals, component cards, and software examples |
+| 60–80 min | Guide input, processing, output, and storage classification | Classify devices and explain devices with more than one role |
+| 80–100 min | Demonstrate a document-creation workflow | Trace keyboard, OS, application, CPU/RAM, monitor, and storage roles |
+| 100–110 min | Check answers and correct common misconceptions | Explain one system/application software example |
+| 110–120 min | Review key distinctions and assign homework | Complete an exit check and record homework |
+
+## 5. Practical activities
 
 ## 5. Practical activities
 
