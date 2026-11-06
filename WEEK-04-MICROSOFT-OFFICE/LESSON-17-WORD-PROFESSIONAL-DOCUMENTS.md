@@ -83,3 +83,14 @@ Show one good and one poorly formatted document. Ask students to identify readab
 - [ ] Add header/footer and page numbers.
 - [ ] Insert a page break and hyperlink.
 - [ ] Export and inspect PDF.
+
+
+## Visual learning aid — structured document
+```mermaid
+flowchart TD
+ A[Document title] --> B[Main section: Heading 1]
+ B --> C[Subsection: Heading 2]
+ C --> D[Body text, tables and images]
+ D --> E[Review accessibility and layout]
+ E --> F[Update table of contents and export]
+```
