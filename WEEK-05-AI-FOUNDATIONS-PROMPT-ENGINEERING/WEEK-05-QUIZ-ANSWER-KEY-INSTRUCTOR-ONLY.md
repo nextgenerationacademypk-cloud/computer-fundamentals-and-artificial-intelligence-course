@@ -37,6 +37,16 @@
 34. Permissions, data scope, privacy policy, account ownership and whether the connection is approved.
 35. Award for identifying the error, giving a precise correction request and verifying against a trusted source.
 
+For Prompt Coach scenarios, accept equivalent answers that preserve the user's intent, identify unsupported assumptions and require review/testing before use.
+
+36. A reusable instruction that helps clarify, structure and improve a rough prompt.
+37. Understand the user's goal; preserve intent; identify missing context; add clear constraints/format; avoid inventing details (any two).
+38. It may misunderstand the goal, add incorrect assumptions or produce a prompt that does not fit the task.
+39. Ask a clarifying question or clearly label an assumption; do not invent facts or personal details.
+40. A useful alternative fits the task; extra length without relevant context does not improve quality.
+41. Remove the invented details and ask Prompt Coach to ask questions or label assumptions; use only accurate information.
+42. Choose the short accurate version, because correctness and fit matter more than length.
+
 ## Marking guidance
 - Factual answers: 1 mark each.
 - Scenario answers: award for safe judgement, clear reasoning and a practical verification step.
