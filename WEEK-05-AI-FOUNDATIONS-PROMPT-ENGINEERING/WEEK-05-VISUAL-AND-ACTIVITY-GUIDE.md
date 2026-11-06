@@ -13,8 +13,12 @@
 | 21 | Everyday AI example cards | Connect AI to familiar services |
 | 22 | Model training/inference illustration; token/context example | Explain abstract terms |
 | 23 | Side-by-side assistant interface screenshots | Show product differences without implying identical features |
-| 24 | Weak vs improved prompt comparison | Make prompt structure visible |
+| 24 | Weak vs improved prompt comparison; Prompt Coach before/after example | Show how a reusable coach clarifies an idea |
+| 25 | Prompt Coach review checklist and alternatives comparison | Teach students to check intent, assumptions and usefulness before testing |
 | 25 | Prompt revision before/after table | Show iterative improvement |
+
+## Prompt Coach teaching visual
+Create a simple four-stage classroom visual: (1) rough idea, (2) Prompt Coach asks/organizes, (3) student reviews and selects, (4) test and verify. Label it as a teaching diagram, not a screenshot of a product.
 
 ## Screenshot and privacy standards
 - Capture only from instructor-controlled, approved accounts.
