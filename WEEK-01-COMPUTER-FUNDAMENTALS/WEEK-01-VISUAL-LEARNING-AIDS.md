@@ -1,155 +1,54 @@
-# Week 1 — Visual Learning Aids
+# Week 1 — Photograph and Screenshot Resource Guide
 
 **Course:** Computer Fundamentals and Artificial Intelligence Foundation Course
 
-This file provides editable diagrams that GitHub can render from Mermaid code. Instructors can display them during lessons. Add high-resolution PNG/SVG exports and suitable photographs in the course visual-assets folder as they are prepared.
+## Purpose
 
-## Visual 1 — The IPOS cycle
-Use in Lesson 1.
+The topic diagrams are now embedded directly in their relevant lesson files. This guide is retained only as an instructor checklist for adding real photographs and genuine screenshots. It does not replace or duplicate the lesson diagrams.
 
-```mermaid
-flowchart LR
-    A[Input: keyboard, mouse, scanner] --> B[Processing: CPU follows instructions]
-    B --> C[Output: screen, printer, speakers]
-    C --> D[Storage: SSD, HDD, USB]
-```
+## Image capture plan
 
-Teaching point: Use a student marks example. Students enter marks, a spreadsheet calculates, the result appears, and the file is saved.
-
-## Visual 2 — A simplified computer system
-Use in Lessons 1 and 4.
-
-```mermaid
-flowchart TB
-    U[User] --> I[Input devices]
-    I --> S[Computer system]
-    S --> P[Processing]
-    P --> O[Output devices]
-    P <--> M[Main memory]
-    P <--> ST[Storage]
-    OS[Operating system and applications] -. manage and use .-> S
-```
-
-Teaching point: This is a learning model, not a complete electrical or motherboard architecture diagram.
-
-## Visual 3 — Common computer generations
-Use in Lesson 2.
-
-```mermaid
-flowchart TD
-    G1[First: Vacuum tubes] --> G2[Second: Transistors]
-    G2 --> G3[Third: Integrated circuits]
-    G3 --> G4[Fourth: Microprocessors]
-    G4 --> G5[Fifth: Advanced and AI-oriented computing]
-```
-
-Teaching point: This is the traditional five-generation framework. Dates and fifth-generation definitions differ among sources.
-
-## Visual 4 — Types of computers
-Use in Lesson 3.
-
-```mermaid
-flowchart TB
-    C[Types of computers]
-    C --> P[Personal and portable]
-    C --> W[Professional and large-scale]
-    C --> E[Embedded]
-    P --> P1[Desktop]
-    P --> P2[Laptop]
-    P --> P3[Tablet]
-    P --> P4[Smartphone]
-    W --> W1[Workstation]
-    W --> W2[Server]
-    W --> W3[Mainframe]
-    W --> W4[Supercomputer]
-    E --> E1[Vehicle systems]
-    E --> E2[Home appliances]
-    E --> E3[Network devices]
-```
-
-## Visual 5 — Hardware and software
-Use in Lesson 4.
-
-```mermaid
-flowchart TB
-    C[Computer system]
-    C --> H[Hardware: physical components]
-    C --> S[Software: programs and instructions]
-    H --> H1[Input]
-    H --> H2[Processing]
-    H --> H3[Output]
-    H --> H4[Storage]
-    S --> S1[System software]
-    S --> S2[Application software]
-    S1 --> OS[Operating system and drivers]
-    S2 --> APP[Browser, word processor, spreadsheet]
-```
-
-## Visual 6 — Inside a desktop system unit
-Use in Lesson 5. This is a conceptual map; actual component placement varies by case and motherboard.
-
-```mermaid
-flowchart TB
-    CASE[Desktop system unit]
-    CASE --> MB[Motherboard]
-    MB --> CPU[CPU]
-    MB --> RAM[RAM modules]
-    MB --> GPU[GPU, if installed]
-    MB --> NET[Network interface]
-    MB --> STORE[Storage connection]
-    STORE --> SSD[SSD or HDD]
-    CASE --> PSU[Power supply unit]
-    CASE --> COOL[Fans and cooling]
-    MB --> CMOS[CMOS battery]
-```
-
-Safety: Never open a PSU. Never work inside a powered computer. Internal inspection is only on an instructor-approved spare desktop under direct supervision.
-
-## Visual 7 — Safe hardware inspection sequence
-Use in Lesson 5.
-
-```mermaid
-flowchart TD
-    A[Save work and shut down] --> B[Switch off and disconnect power]
-    B --> C[Follow ESD and lab safety procedure]
-    C --> D[Instructor authorizes inspection]
-    D --> E[Identify components carefully]
-    E --> F[Do not force parts or open PSU]
-    F --> G[Instructor checks and closes system]
-```
-
-## Screenshot and photograph plan
-
-| Lesson | Recommended visual asset | Requirements |
+| Lesson | Recommended photograph or screenshot | What students should learn |
 |---|---|---|
-| 1 | IPOS examples and early calculating-device timeline | Label each stage and identify historical devices |
-| 2 | Vacuum tube, transistor, IC and microprocessor comparison | Identify each technology accurately |
-| 2 | Historical computer vs modern computer | Add captions; avoid misleading scale |
-| 3 | Desktop, laptop, tablet and smartphone | Label device types |
-| 3 | Server, mainframe and supercomputer examples | Explain their different purposes |
-| 4 | Hardware vs software comparison | Use real device photos and software screenshots |
-| 5 | Motherboard overview | Labels must match the pictured board |
-| 5 | CPU, RAM, SSD/HDD, PSU, GPU and fan | Use clear close-up photos |
-| 5 | USB, HDMI, DisplayPort, Ethernet and audio ports | Identify connector types accurately |
+| 1 | Clear photo of an abacus and historical calculating device; optional screenshot of a simple marks spreadsheet | Recognize early calculating tools and connect the IPOS cycle to a familiar task |
+| 2 | Vacuum tube, transistor, integrated circuit and microprocessor photographs; historical and modern computer comparison | Recognize the technologies associated with each traditional generation |
+| 3 | Desktop, laptop, tablet, smartphone, server, workstation and embedded-device photographs | Identify computer types by appearance and purpose |
+| 4 | Real input/output/storage devices; genuine Windows and application screenshots | Distinguish physical hardware from software |
+| 5 | Academy training desktop, motherboard, CPU, RAM, SSD/HDD, PSU, GPU, fans and port close-ups | Identify actual components and connectors safely |
 
-## Image and screenshot quality rules
-1. Every image must teach a specific concept; avoid decorative images that add no learning value.
-2. Add a useful caption and meaningful alternative text.
-3. Use readable labels and high contrast.
-4. Use genuine screenshots from the software version used in class.
-5. Hide student names, email addresses, passwords, license keys, serial numbers, and other personal information.
-6. Prefer academy-created photos. Obtain permission before photographing students.
-7. Check licenses and attribution requirements for third-party images. Do not copy random images from Google Images.
-8. Keep image files reasonably sized and use descriptive names.
-9. Review screenshots after software updates.
-10. Never let a diagram simplify a safety rule in a misleading way.
+## Screenshot standards
+
+1. Capture screenshots from the actual Windows and software versions used in the academy lab.
+2. Do not fabricate or redraw a screenshot and present it as a real software interface.
+3. Hide names, email addresses, passwords, license keys, serial numbers, notifications and other private information.
+4. Capture only the relevant part of the screen; add arrows or labels only when they improve understanding.
+5. Keep text readable at normal zoom and use meaningful captions and alternative text.
+6. Review screenshots after major software updates because menus and labels may change.
+
+## Photograph standards
+
+1. Prefer academy-owned equipment photographed in good lighting.
+2. Use a plain background and take close-up photographs where component labels matter.
+3. Label only parts that can be identified confidently.
+4. Obtain permission before photographing students or their personal devices.
+5. Do not open a PSU or photograph unsafe demonstrations as if they were acceptable student practice.
+
+## Copyright, attribution and privacy
+
+- Prefer original academy photographs and screenshots.
+- For third-party images, check the license and attribution requirements before reuse.
+- Do not assume images found through a search engine are free to copy.
+- Keep a short source/credit note for each third-party asset.
+- Remove private information before committing any image to a public repository.
 
 ## Suggested asset naming
-Use lowercase descriptive names, for example:
-- week-01-lesson-01-ipos-cycle.svg
-- week-01-lesson-02-computer-generations.png
-- week-01-lesson-03-computer-types.jpg
-- week-01-lesson-04-hardware-vs-software.png
-- week-01-lesson-05-motherboard-labelled.jpg
 
-Store images under DIAGRAMS-AND-VISUAL-RESOURCES/week-01/. Keep editable Mermaid source even when exported images are also included.
+Use lowercase descriptive names, for example:
+
+- `week-01-lesson-01-abacus.jpg`
+- `week-01-lesson-02-transistor-and-ic.jpg`
+- `week-01-lesson-03-computer-types.jpg`
+- `week-01-lesson-04-input-output-devices.jpg`
+- `week-01-lesson-05-labelled-motherboard.jpg`
+
+Store approved image files in `DIAGRAMS-AND-VISUAL-RESOURCES/week-01/`. Link each image from the relevant lesson file beside the explanation it supports. Do not add an image until its accuracy, readability, privacy and usage rights have been checked.
