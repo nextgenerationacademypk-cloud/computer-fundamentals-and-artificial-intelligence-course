@@ -51,6 +51,25 @@ When a student types a document:
 
 Hardware without useful software cannot perform most user tasks. Software also needs compatible hardware to run.
 
+### Visual: Hardware and software work together
+
+```mermaid
+flowchart TB
+    C[Computer system]
+    C --> H[Hardware: physical components]
+    C --> S[Software: programs and instructions]
+    H --> H1[Input]
+    H --> H2[Processing]
+    H --> H3[Output]
+    H --> H4[Storage]
+    S --> S1[System software]
+    S --> S2[Application software]
+    S1 --> OS[Operating system and drivers]
+    S2 --> APP[Browser, word processor, spreadsheet]
+```
+
+**Example:** When you type a document, the keyboard provides input, the operating system and word processor manage the task, the monitor displays the document, and the SSD stores the saved file.
+
 ## 4. Lesson delivery plan
 
 | Time | Instructor activity | Student activity |
