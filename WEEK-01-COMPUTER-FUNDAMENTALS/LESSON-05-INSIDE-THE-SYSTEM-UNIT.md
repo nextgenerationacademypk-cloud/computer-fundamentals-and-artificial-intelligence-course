@@ -105,7 +105,6 @@ flowchart TD
 
 ## 5. Supervised practical
 
-## 5. Supervised practical
 
 **Equipment:** One instructor-approved spare desktop, component diagram, labels, suitable screwdriver, ESD protection where available.
 
