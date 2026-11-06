@@ -79,7 +79,7 @@ Every lesson package should include student notes, learning objectives, key term
 | Week 2 detailed teaching package | Added and verified; real classroom screenshots and classroom pilot outstanding |
 | Week 3 detailed teaching package | **Requires completion/verification.** The current folder landing page is not sufficient evidence of a full five-lesson package. |
 | Week 4 detailed teaching package | Added; lessons, workbook, quiz, instructor key, assessment and visual guide created; final link and classroom review outstanding |
-| Week 5 detailed teaching package | **Added and updated:** five lessons, workbook, quiz bank, instructor-only key, 50-mark assessment, visual guide and reusable Prompt Coach template; Prompt Coach integrated into Lessons 24–25 and practical assessment. Repository verification and classroom pilot remain required. |
+| Week 5 detailed teaching package | **Added and updated:** five lessons, workbook, quiz bank, instructor-only key, 50-mark assessment, visual guide and reusable Prompt Coach template; Prompt Coach integrated into Lessons 24–25 and practical assessment. Repository verification completed for the Prompt Coach updates; classroom pilot/feedback still pending. Pilot observation and student feedback pack added. |
 | Week 6 detailed teaching package | **Added:** five lessons, workbook, quiz bank, instructor-only key, 50-mark assessment, visual guide and week navigation. Repository files fetched and checked for key sections. |
 | Weeks 7–8 detailed teaching packages | To be developed |
 | Complete instructor guide | To be developed |
