@@ -79,3 +79,14 @@ Teach attribution as a practical habit, not a legal guarantee. Use instructor-ap
 - [ ] Use transitions/animations sparingly.
 - [ ] Add speaker notes and present.
 - [ ] Attribute sources and explain plagiarism.
+
+
+## Visual learning aid — responsible presentation workflow
+```mermaid
+flowchart LR
+ A[Plan audience and purpose] --> B[Organize slide story]
+ B --> C[Design clear slides]
+ C --> D[Check facts and image permissions]
+ D --> E[Practise delivery]
+ E --> F[Present and credit sources]
+```
