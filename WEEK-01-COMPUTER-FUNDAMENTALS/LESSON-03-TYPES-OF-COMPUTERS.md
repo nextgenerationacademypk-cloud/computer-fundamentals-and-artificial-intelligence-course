@@ -33,6 +33,29 @@ An embedded computer is built into another product to control or manage specific
 ### Choosing the right type
 The best computer depends on the task, required performance, portability, budget, reliability, and software. A student writing documents may need a basic laptop or desktop. A research organization running complex simulations may need high-performance computing.
 
+### Visual: Common types of computers
+
+```mermaid
+flowchart TB
+    C[Types of computers]
+    C --> P[Personal and portable]
+    C --> W[Professional and large-scale]
+    C --> E[Embedded]
+    P --> P1[Desktop]
+    P --> P2[Laptop]
+    P --> P3[Tablet]
+    P --> P4[Smartphone]
+    W --> W1[Workstation]
+    W --> W2[Server]
+    W --> W3[Mainframe]
+    W --> W4[Supercomputer]
+    E --> E1[Vehicle systems]
+    E --> E2[Home appliances]
+    E --> E3[Network devices]
+```
+
+**Example:** A student may use a laptop, a company may use servers, and a washing machine may contain an embedded computer.
+
 ## 3. Lesson delivery plan
 
 | Time | Instructor activity | Student activity |
