@@ -31,7 +31,23 @@ Prompting is often a cycle:
 
 Avoid saying only “make it better.” Explain what should change, such as “Use shorter sentences, keep the five headings, and add one practical example.”
 
-### 2. Break large tasks into stages
+### 2. Use Prompt Coach as the first review step
+
+Prompt Coach can help turn an unclear request into a better starting prompt. Use this controlled workflow:
+
+1. Write your rough idea in your own words.
+2. Ask Prompt Coach to clarify the goal and improve the prompt.
+3. Read the rewritten prompt carefully. Check that it still means what you intended.
+4. Remove assumptions or details that are incorrect.
+5. Choose the version that best fits your task; do not automatically choose the longest version.
+6. Test it with the AI assistant.
+7. Evaluate the result and give a focused revision instruction.
+
+Prompt Coach may suggest simple, detailed and structured versions. These are choices, not proof that any version is correct. Ask a short follow-up question if important information is missing.
+
+**Example:** A student writes, “Help me study science.” Prompt Coach should not invent the student's grade, exam date or syllabus. It can ask for those details or create a clearly labelled general version.
+
+### 3. Break large tasks into stages
 A complex task is easier to control when divided into steps. For example, preparing a presentation:
 - First create an outline.
 - Review the outline.
@@ -42,10 +58,10 @@ A complex task is easier to control when divided into steps. For example, prepar
 
 Do not accept every stage automatically. Review and approve before moving forward.
 
-### 3. Structured output
+### 4. Structured output
 Ask for a table with named columns, a numbered procedure, a checklist or a consistent template. For data tasks, specify units, allowed values and how missing information should be shown. Structured output still needs checking.
 
-### 4. Ask for assumptions and uncertainty
+### 5. Ask for assumptions and uncertainty
 Useful instructions include:
 - “List any assumptions you made.”
 - “Mark information you cannot verify.”
@@ -55,7 +71,7 @@ Useful instructions include:
 
 The assistant's claims about its own confidence are not proof. Verify important facts independently.
 
-### 5. Common mistakes
+### 6. Common mistakes
 - Task is too vague.
 - Important context is missing.
 - Several unrelated tasks are mixed together.
@@ -65,13 +81,19 @@ The assistant's claims about its own confidence are not proof. Verify important 
 - The prompt asks for a source but the source is not checked.
 - Students copy output they cannot explain.
 
-### 6. Build a prompt library
+### 7. Build a prompt library
 Store prompts with a title, purpose, prompt text, sample input, date tested, tool/version if known, result notes and known limitations. Remove private data. Re-test prompts because AI products change.
 
-### 7. Responsible use
+### 8. Responsible use
 Use AI according to academy rules. Cite or disclose AI assistance when required. Do not submit generated work as independent work if that violates the assignment. Never use prompts to deceive, impersonate, harass or create harmful content.
 
-## Practical activity — 15-prompt library
+## Practical activity — Prompt Coach test and 15-prompt library
+
+Choose one rough prompt from Lesson 24. Run it through Prompt Coach, review the suggested alternatives, select one and test it. Use a simple evaluation table: Did it preserve the goal? Was context useful? Were assumptions labelled? Did the output meet the task? What would you revise?
+
+Then complete the 15-prompt library. Include the Prompt Coach template as one reusable entry, and record when it is useful and its limitations.
+
+
 Create and test 15 prompts across these categories:
 1–3 learning and explanations; 4–6 research and source checking; 7–9 professional writing; 10–12 Office productivity; 13–15 presentations and creative planning.
 For each, record the goal, complete prompt, output format, one result check and one limitation. Use fictional data only.
@@ -96,6 +118,7 @@ Assess the student's prompt design and verification, not the amount of generated
 - [ ] Student requests structured output.
 - [ ] Student checks claims and assumptions.
 - [ ] Student creates a 15-prompt library.
+- [ ] Student reviews and tests a Prompt Coach rewrite instead of accepting it automatically.
 
 ## Lesson delivery plan
 | Time | Activity |
