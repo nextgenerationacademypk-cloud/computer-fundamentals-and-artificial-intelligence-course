@@ -7,29 +7,50 @@
 By the end of this week, you will plan and create simple educational visuals and short-form content. You will also check accuracy, readability, copyright, privacy, consent and accessibility.
 
 ## Activity 1 — Image prompt planner (Lesson 31)
-Choose a classroom topic: ____________________
+Choose a classroom or design task: ____________________
+
+Choose the output: [ ] Educational illustration  [ ] Poster background  [ ] Thumbnail  [ ] Product/concept image  [ ] Portrait using an approved reference  [ ] Other: __________
 
 | Prompt element | My notes |
 |---|---|
-| Purpose | |
+| Purpose and audience | |
 | Main subject | |
-| Setting/action | |
-| Composition | |
+| Action and setting | |
+| Composition / subject position / empty space | |
 | Visual style | |
-| Lighting/mood | |
-| Format/aspect ratio | |
+| Lighting, colour and mood | |
+| Format / aspect ratio | |
+| Exact text, or no text | |
+| What must stay unchanged (if editing) | |
 | Things to avoid | |
 
-Write your complete prompt:
+Write your first prompt:
 
 ____________________________________________________________________
 
-After viewing the result or sample, check:
-- [ ] Does it match the purpose?
-- [ ] Is there one clear focal point?
+After viewing the result or sample, identify the biggest issue:
+
+____________________________________________________________________
+
+Write one small improvement instruction (change one or two details only):
+
+____________________________________________________________________
+
+| Review point | First draft | Revised result |
+|---|---|---|
+| Matches the purpose | | |
+| Clear focal point and composition | | |
+| Plausible objects, faces, hands and details | | |
+| Correct text, names and numbers | | |
+| Suitable format and readability | | |
+
+Final checks:
+- [ ] Does it match the purpose and audience?
+- [ ] Is there one clear focal point and enough useful space?
 - [ ] Are objects, faces, hands and details plausible?
-- [ ] Is any text misspelled or invented?
-- [ ] Are rights, privacy and tool terms understood?
+- [ ] Is any text misspelled, invented or misleading?
+- [ ] Are rights, consent, privacy, age rules and tool terms understood?
+- [ ] Did I record what I changed and why?
 
 ## Activity 2 — Three design formats (Lesson 32)
 Create a poster, video thumbnail and social post for a fictional academy learning activity. Do not invent real academy dates, phone numbers or announcements.
