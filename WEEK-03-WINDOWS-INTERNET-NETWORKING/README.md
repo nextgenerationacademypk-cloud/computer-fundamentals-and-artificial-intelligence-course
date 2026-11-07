@@ -49,4 +49,4 @@ Conceptual diagrams are embedded in all five lesson files. The visual guide spec
 ## Completion outcomes
 By the end of Week 3, students should be able to inspect basic system activity and device status, explain storage concepts, describe a safe Windows installation workflow, explain a simple network, use a browser and email appropriately, and identify common phishing warning signs.
 
-**Development status:** Detailed lessons, workbook, quiz bank, instructor answer key, assessment record and visual guide added. Classroom screenshots and pilot teaching remain outstanding.
+**Development status:** Five detailed lesson files, practical workbook, student quiz bank, separate instructor-only answer key, 50-mark assessment and instructor record, visual/screenshot guide and week navigation are in the repository. Lesson files were fetched and checked; conceptual diagrams are embedded. Genuine academy screenshots and classroom pilot teaching remain outstanding.
