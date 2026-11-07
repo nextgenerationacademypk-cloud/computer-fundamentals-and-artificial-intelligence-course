@@ -46,6 +46,10 @@ Match the design to the platform's current size recommendations. These can chang
 ## 6. Using AI and an editor together
 Ask AI for headline options, layout ideas, colour suggestions or a design checklist. Generate background concepts separately if useful. Assemble and correct the final layout in an editor such as Canva, a presentation application or another available tool. Never trust generated text without proofreading.
 
+When prompting an image generator for a poster background, describe the purpose, subject, style, colour palette, composition and the area where the headline will go. For example: “Create a clean technology-themed poster background. Place a laptop and simple digital icons on the right. Leave generous empty space on the left for the headline and event details. Use a modern blue-and-white palette, portrait 4:5, no text and no logos.”
+
+For a thumbnail, choose one strong subject, a clear focal point and a small amount of title space. Avoid asking the image generator to invent academy names, dates, phone numbers or claims. Add approved wording in the editor, then check it at small mobile size. For more prompt patterns, see the [Image Generation and Prompting Guide](IMAGE-GENERATION-PROMPTING-GUIDE.md).
+
 ## 7. Export and review
 Keep an editable project where possible and export a final PNG or JPG for ordinary graphics. Check dimensions, file size, cropping, spelling, contrast, image rights and mobile readability. Include attribution where required.
 
