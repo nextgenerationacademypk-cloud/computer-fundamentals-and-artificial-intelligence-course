@@ -68,7 +68,7 @@ This file is the navigation map for the approved eight-week programme. Detailed 
 
 ## Required package standard
 
-Every lesson package should include student notes, learning objectives, key terms, instructor preparation, a delivery plan, a demonstration, guided and independent practice, homework, a short quiz, an instructor-only answer key, and evidence/checklist for assessment.
+Every lesson package should include student notes, learning objectives, key terms, instructor preparation, a delivery plan, demonstration, guided and independent practice, homework, an understanding check and a completion checklist. Each weekly package should include a student quiz bank, a separate instructor-only answer key, practical workbook and assessment record.
 
 ## Development and review status
 
@@ -78,7 +78,7 @@ Every lesson package should include student notes, learning objectives, key term
 | Week 1 detailed teaching package | Added; first refinement and file verification complete; real academy photos/screenshots and classroom pilot outstanding |
 | Week 2 detailed teaching package | Added and verified; real classroom screenshots and classroom pilot outstanding |
 | Week 3 detailed teaching package | **Added and fetched for verification:** five detailed lessons (11–15), practical workbook, student quiz bank, separate instructor-only answer key, 50-mark assessment and instructor record, visual/screenshot guide and complete week navigation. Conceptual diagrams are embedded in lessons. Genuine academy screenshots and classroom pilot remain outstanding. |
-| Week 4 detailed teaching package | Added; lessons, workbook, quiz, instructor key, assessment and visual guide created; final link and classroom review outstanding |
+| Week 4 detailed teaching package | **Added and fetched for verification:** five lessons, workbook, student quiz bank, separate instructor-only key, 50-mark assessment and instructor record, visual/screenshot guide and complete week navigation. Genuine academy screenshots and classroom pilot remain outstanding. |
 | Week 5 detailed teaching package | **Added and updated:** five lessons, workbook, quiz bank, instructor-only key, 50-mark assessment, visual guide and reusable Prompt Coach template; Prompt Coach integrated into Lessons 24–25 and practical assessment. Repository verification completed for the Prompt Coach updates; classroom pilot/feedback still pending. Pilot observation and student feedback pack added. |
 | Week 6 detailed teaching package | **Added:** five lessons, workbook, quiz bank, instructor-only key, 50-mark assessment, visual guide and week navigation. Repository files fetched and checked for key sections. |
 | Week 7 detailed teaching package | **Added and fetched for verification:** five lessons, practical workbook, student quiz bank, instructor-only answer key, 50-mark assessment and instructor record, visual/screenshot guide and complete week navigation. Classroom pilot and genuine academy screenshots remain outstanding |
