@@ -87,7 +87,7 @@ Every lesson package should include student notes, learning objectives, key term
 | Student orientation and workbook resources | **Added and fetched for verification:** student orientation handbook, digital safety/responsible AI guide, keyboard shortcuts and file organisation reference, and study planner/progress tracker. Weekly practical workbooks remain in their respective week folders. |
 | Assessment templates and answer keys | **Added and organized:** course-level 100-mark framework, mid-course 15-mark practical examination and private student progress/attendance record added. Weekly quizzes and instructor-only keys remain in week folders. Full consistency audit still pending. |
 | Projects and practical portfolio | **Added:** eight-week project pathway, final website project brief with 30-mark rubric, and submission/presentation checklist. Weekly practical activities remain in week folders. |
-| Genuine visual resources and screenshots | To be captured/curated and checked |
+| Genuine visual resources and screenshots | Conceptual diagrams are embedded in lesson files and capture guides are present. Genuine academy hardware/software screenshots, classroom photographs and student pilot evidence still need to be captured/approved. |
 | Final quality audit | Pending |
 
 Do not mark a section complete until its actual files have been added and reviewed. “Added” does not mean classroom-piloted or externally accredited.
