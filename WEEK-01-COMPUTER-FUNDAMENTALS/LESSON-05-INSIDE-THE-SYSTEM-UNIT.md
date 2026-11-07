@@ -13,6 +13,19 @@ Students will be able to:
 4. Follow basic electrical and electrostatic discharge (ESD) safety rules.
 5. Explain why components must be compatible.
 
+
+## Key terms
+
+- **System unit:** The case that contains the main internal computer components.
+- **Motherboard:** The main circuit board that connects components.
+- **CPU:** The processor that executes instructions.
+- **RAM:** Fast temporary working memory.
+- **HDD / SSD:** Storage devices used to keep files and programs.
+- **PSU:** Power Supply Unit; provides electrical power to components.
+- **GPU:** Graphics Processing Unit; processes graphics and parallel workloads.
+- **ESD:** Electrostatic discharge; a sudden transfer of static electricity that can damage components.
+- **Port:** A connection point for an external device or cable.
+
 ## 2. Student lecture notes
 
 ### System unit
