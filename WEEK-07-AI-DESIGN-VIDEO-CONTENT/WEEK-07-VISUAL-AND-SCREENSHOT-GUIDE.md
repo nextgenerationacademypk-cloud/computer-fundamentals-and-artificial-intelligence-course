@@ -7,7 +7,7 @@ This guide identifies visuals that should be captured or created. It does not cl
 
 | Lesson | Recommended visual | Placement / teaching purpose |
 |---|---|---|
-| 31 | Prompt anatomy diagram; image quality review grid | Beside prompt-writing and quality-check sections |
+| 31 | Prompt anatomy diagram; composition and negative-space examples; first-draft/revision comparison; image quality review grid | Beside prompt-writing, composition and iterative-editing sections |
 | 32 | Poster hierarchy example; thumbnail safe-area example | Beside design principles and export |
 | 33 | Channel planning flow; sample content calendar | Beside channel strategy |
 | 34 | Script-to-storyboard sequence; simple editing timeline | Beside video workflow |
@@ -21,6 +21,20 @@ flowchart TD
  C --> D[Edit and caption]
  D --> E[Check facts, rights, consent and privacy]
  E --> F[Export and review]
+```
+
+## Additional prompt-learning visual
+
+The new [Image Generation and Prompting Guide](IMAGE-GENERATION-PROMPTING-GUIDE.md) provides reusable prompt structures and examples. A one-page classroom visual can show this workflow:
+
+```mermaid
+flowchart LR
+ A[Purpose and audience] --> B[Describe subject and scene]
+ B --> C[Choose composition and style]
+ C --> D[Generate first draft]
+ D --> E[Inspect the result]
+ E --> F[Change one or two details]
+ F --> G[Review rights, consent and accuracy]
 ```
 
 ## Screenshot capture plan
