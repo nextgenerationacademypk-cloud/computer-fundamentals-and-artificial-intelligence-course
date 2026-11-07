@@ -19,6 +19,7 @@ Students learn to plan and create educational graphics and short-form media. The
 | 35 | AI Audio, Voice, Captions and Complete Content Production | [Open lesson](LESSON-35-AI-AUDIO-VOICE-CAPTIONS-CONTENT-PRODUCTION.md) |
 
 ## Student and instructor resources
+- [Image Generation and Prompting Guide](IMAGE-GENERATION-PROMPTING-GUIDE.md) — reusable prompt template, composition, lighting, reference-image safety, image editing, iteration and quality checklist.
 - [Practical workbook](WEEK-07-PRACTICAL-WORKBOOK.md)
 - [Student quiz bank](WEEK-07-QUIZ-BANK.md)
 - [Instructor-only quiz answer key](WEEK-07-QUIZ-ANSWER-KEY-INSTRUCTOR-ONLY.md)
