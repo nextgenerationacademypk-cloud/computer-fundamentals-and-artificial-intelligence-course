@@ -9,7 +9,7 @@
 
 ## 1. Executive assessment
 
-<badge>Strong documentation foundation</badge>
+**Overall finding: Strong documentation foundation.**
 
 The repository now contains the approved eight-week, 40-lesson learning pathway and a complete weekly package structure. The course progresses from computer and hardware basics through Windows, Office, AI literacy, AI-assisted productivity and content creation, then to introductory website development, GitHub and publishing.
 
@@ -41,7 +41,7 @@ Each weekly folder contains a navigation page, five lesson files, practical work
 
 ## 3. Curriculum and learning progression
 
-<badge color="success">Approved sequence preserved</badge>
+**Approved sequence preserved.**
 
 The eight-week sequence is coherent for a beginner foundation course:
 
