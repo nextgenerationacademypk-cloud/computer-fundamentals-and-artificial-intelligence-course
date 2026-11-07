@@ -85,7 +85,7 @@ Every lesson package should include student notes, learning objectives, key term
 | Week 8 detailed teaching package | **Added and fetched for verification:** five lessons, practical workbook, student quiz bank, instructor-only answer key, 50-mark assessment and instructor record, visual/screenshot guide and complete week navigation. Classroom pilot and genuine academy screenshots remain outstanding |
 | Complete instructor guide | **Added and fetched for verification:** comprehensive instructor manual covering classroom delivery, grouping and differentiation, lab management, hardware and Windows installation safety, AI privacy, assessment, progress tracking, troubleshooting, records, checklists and course policies. Academy leadership review/adoption remains outstanding. |
 | Student orientation and workbook resources | **Added and fetched for verification:** student orientation handbook, digital safety/responsible AI guide, keyboard shortcuts and file organisation reference, and study planner/progress tracker. Weekly practical workbooks remain in their respective week folders. |
-| Assessment templates and answer keys | To be organized and reviewed |
+| Assessment templates and answer keys | **Added and organized:** course-level 100-mark framework, mid-course 15-mark practical examination and private student progress/attendance record added. Weekly quizzes and instructor-only keys remain in week folders. Full consistency audit still pending. |
 | Genuine visual resources and screenshots | To be captured/curated and checked |
 | Final quality audit | Pending |
 
