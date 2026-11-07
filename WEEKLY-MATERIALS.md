@@ -86,6 +86,7 @@ Every lesson package should include student notes, learning objectives, key term
 | Complete instructor guide | **Added and fetched for verification:** comprehensive instructor manual covering classroom delivery, grouping and differentiation, lab management, hardware and Windows installation safety, AI privacy, assessment, progress tracking, troubleshooting, records, checklists and course policies. Academy leadership review/adoption remains outstanding. |
 | Student orientation and workbook resources | **Added and fetched for verification:** student orientation handbook, digital safety/responsible AI guide, keyboard shortcuts and file organisation reference, and study planner/progress tracker. Weekly practical workbooks remain in their respective week folders. |
 | Assessment templates and answer keys | **Added and organized:** course-level 100-mark framework, mid-course 15-mark practical examination and private student progress/attendance record added. Weekly quizzes and instructor-only keys remain in week folders. Full consistency audit still pending. |
+| Projects and practical portfolio | **Added:** eight-week project pathway, final website project brief with 30-mark rubric, and submission/presentation checklist. Weekly practical activities remain in week folders. |
 | Genuine visual resources and screenshots | To be captured/curated and checked |
 | Final quality audit | Pending |
 
