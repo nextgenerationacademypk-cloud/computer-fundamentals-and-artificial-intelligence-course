@@ -50,6 +50,8 @@ Teach students to verify the exact domain and source. HTTPS protects a connectio
 | [Google Workspace — Start with a Great Prompt](https://support.google.com/a/users/answer/14590328) | Examples of context-rich prompts and reviewing/refining generated content |
 | [Google AI / Gemini learning resources](https://support.google.com/a/users/answer/14506784) | Official Gemini help and learning resources; feature access may depend on account and plan |
 | [NotebookLM](https://notebooklm.google.com/) | Source-grounded learning and research tool; check current age, account and regional availability |
+| [Google DeepMind — Nano Banana image prompt guide](https://deepmind.google/models/gemini-image/prompt-guide/) | Official guidance for describing subject, style, setting, action, composition and refining generated images |
+| [Google Gemini Help — Generate and edit images](https://support.google.com/gemini/answer/14286560) | Current feature instructions and account/age access guidance; check school-account restrictions |
 
 AI outputs can be wrong or misleading. Verify facts, citations, formulas, documents and code. Never enter passwords, verification codes, private student records or confidential academy information.
 
