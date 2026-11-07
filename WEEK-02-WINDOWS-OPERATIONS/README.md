@@ -30,6 +30,10 @@ Every lesson includes learning outcomes, key terms, beginner-friendly notes, top
 
 Do not distribute instructor-only files with student handouts.
 
+## Supported Windows environment
+
+Use a currently supported Windows edition on academy lab computers. For a standard lab in 2026, prefer a supported Windows 11 release on compatible hardware. Windows 10 Home/Pro reached end of support on 14 October 2025; use it only where an applicable Extended Security Updates arrangement or separate edition lifecycle has been verified. See [Microsoft's Windows 10 end-of-support guidance](https://support.microsoft.com/en-us/windows/deployment/updates-lifecycle/windows-10-support-has-ended-on-october-14-2025). Check the exact lab edition and update status before teaching.
+
 ## Required equipment and preparation
 
 - Windows training computers with student accounts.
