@@ -14,6 +14,7 @@ These resources support the course lessons. The course notes and instructor demo
 | [Windows Help and Learning](https://support.microsoft.com/en-us/windows/) | Official support for installation, updates, devices, network, files, security and troubleshooting |
 | [Microsoft Learn](https://learn.microsoft.com/learn) | Self-paced learning modules and learning paths |
 | [Microsoft Windows download page](https://www.microsoft.com/software-download/windows11) | Official Windows 11 installation/download information; instructor use only for course installation demonstrations |
+| [Windows 10 end-of-support guidance](https://support.microsoft.com/en-us/windows/deployment/updates-lifecycle/windows-10-support-has-ended-on-october-14-2025) | Check support status before using older Windows 10 lab computers |
 
 **Instructor note:** Do not ask students to install or reinstall Windows on personal computers. Use a disposable VM or dedicated spare training PC under direct supervision.
 
