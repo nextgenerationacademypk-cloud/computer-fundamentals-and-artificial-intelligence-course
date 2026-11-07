@@ -11,6 +11,17 @@ Students will be able to:
 3. Match a computer type to a suitable task.
 4. Recognize that phones and many everyday devices are computers too.
 
+
+## Key terms
+
+- **Personal computer:** A computer designed mainly for one person at a time.
+- **Portable computer:** A computer designed to be carried, such as a laptop or tablet.
+- **Workstation:** A powerful computer for demanding professional work.
+- **Server:** A computer that provides services or resources to other computers.
+- **Mainframe:** A large system designed for reliable high-volume processing and many users.
+- **Supercomputer:** A system designed for extremely complex calculations.
+- **Embedded computer:** A computer built into another device to control a specific function.
+
 ## 2. Student lecture notes
 
 A computer is not always a desktop machine. Computers come in many forms. Some are designed for one person, while others support many users or perform specialized tasks.
