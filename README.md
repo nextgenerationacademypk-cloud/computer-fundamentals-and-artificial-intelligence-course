@@ -33,6 +33,7 @@ A practical, beginner-friendly 8-week programme that develops computer confidenc
 ## Repository guide
 
 - [Course blueprint](COURSE-BLUEPRINT/README.md) — approved programme structure, outcomes and delivery model.
+- [Course quality audit](COURSE-QUALITY-AUDIT-REPORT.md) — repository completeness, instructional structure, safety findings and pre-teaching action plan.
 - [Instructor guide](INSTRUCTOR-GUIDE/README.md) — instructor policies, preparation and classroom delivery framework.
 - [Student resources](STUDENT-RESOURCES/README.md) — student orientation, study guidance and digital safety.
 - [Weekly materials](WEEKLY-MATERIALS.md) — lesson-by-lesson curriculum map and material status.
