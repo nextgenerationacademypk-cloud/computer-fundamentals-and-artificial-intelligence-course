@@ -226,6 +226,8 @@ If there is smoke, burning smell, electrical shock, sparking or liquid spill:
 
 ### 7.1 Ordinary Windows practice
 
+Use a currently supported Windows edition on academy lab computers. For a standard beginner lab in 2026, prefer a supported Windows 11 release on compatible hardware and verify its support lifecycle before each course delivery. Windows 10 Home/Pro reached end of support on 14 October 2025; it no longer receives ordinary security updates unless the device is covered by an applicable Extended Security Updates arrangement or a separate edition lifecycle. See [Microsoft's Windows 10 end-of-support guidance](https://support.microsoft.com/en-us/windows/deployment/updates-lifecycle/windows-10-support-has-ended-on-october-14-2025). Do not use an unsupported internet-connected Windows installation as the normal student environment.
+
 Students may practise ordinary navigation, file management and approved settings using standard accounts. They should not change security settings, install unknown software, disable protection or change administrator settings.
 
 ### 7.2 Disk Management: view-only
