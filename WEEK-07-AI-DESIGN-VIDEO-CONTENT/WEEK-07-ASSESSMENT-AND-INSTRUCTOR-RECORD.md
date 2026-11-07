@@ -27,7 +27,7 @@ Mark for understanding, not memorised wording. Use the instructor-only answer ke
 | Criterion | Marks | Evidence |
 |---|---:|---|
 | Purpose, audience and message are clear | 3 | Brief / channel plan |
-| Image prompt and visual asset quality | 4 | Prompt and generated/sample visual |
+| Image prompt and visual asset quality | 4 | Prompt, first draft/sample, one documented refinement and final visual |
 | Poster, thumbnail or social design | 4 | At least two reviewed designs |
 | Script and storyboard | 3 | Written plan |
 | Short video or complete prototype | 5 | Final export or storyboard/editing prototype |
@@ -55,7 +55,7 @@ These are internal course guidance bands, not an external certification standard
 
 | Skill | Independent | With support | Not yet demonstrated | Notes |
 |---|---|---|---|---|
-| Writes a clear image prompt | [ ] | [ ] | [ ] | |
+| Writes a clear image prompt and refines it logically | [ ] | [ ] | [ ] | |
 | Identifies image errors | [ ] | [ ] | [ ] | |
 | Applies design hierarchy and contrast | [ ] | [ ] | [ ] | |
 | Plans a channel and content calendar | [ ] | [ ] | [ ] | |
