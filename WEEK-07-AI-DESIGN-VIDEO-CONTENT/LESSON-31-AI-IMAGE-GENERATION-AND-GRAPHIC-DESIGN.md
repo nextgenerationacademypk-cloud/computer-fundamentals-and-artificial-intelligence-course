@@ -30,23 +30,38 @@ An AI image generator creates a new image from a written description or other su
 Examples include concept art, classroom illustrations, background ideas, storyboards, poster backgrounds and visual brainstorming. It can save time when exploring ideas. It does not replace checking facts, design judgment or permission to use a person's likeness.
 
 ## 3. Build a useful image prompt
-A clear prompt often states:
-- **Purpose:** what the image will help communicate.
-- **Subject:** the main person, object or scene.
-- **Setting and action:** where it is and what is happening.
-- **Composition:** camera/view, foreground/background, spacing and focal point.
-- **Visual style:** for example, clean educational vector illustration or realistic product photograph.
-- **Lighting and mood:** bright classroom lighting, calm mood, etc.
-- **Format:** landscape 16:9, square 1:1 or portrait 4:5 when the tool supports it.
-- **Restrictions:** no logos, no extra text, uncluttered background, no watermark-like marks.
+A clear prompt tells the tool what to create and why. Use this beginner-friendly order:
+1. **Purpose and audience:** what is the image for, and who will see it?
+2. **Subject:** the main person, object or scene.
+3. **Action and setting:** what is happening and where?
+4. **Composition:** framing, viewpoint, subject position and empty space.
+5. **Style:** photograph, clean vector illustration, 3D render, watercolor, diagram, etc.
+6. **Lighting and mood:** soft daylight, dramatic side light, bright and friendly, calm and professional.
+7. **Format:** landscape, square or portrait; add an aspect ratio if useful and supported.
+8. **Text:** provide exact wording in quotation marks, or ask for no text and add it later.
+9. **Limits:** what must stay unchanged, and what should be avoided?
+
+**Reusable pattern:** “Create a [type of image] for [purpose/audience]. Show [subject] [action] in [setting]. Use [composition] and [visual style]. Set the mood with [lighting/colour]. Format: [shape/ratio]. Text: [exact words or no text]. Keep [important details] and avoid [unwanted details].”
 
 Example: “Create a clean, student-friendly vector illustration for a beginner computer class. Show a student using a desktop computer in a bright classroom. Keep the computer and student clearly visible, use simple shapes and readable visual hierarchy, landscape 16:9, no words, no logos.”
 
-## 4. Composition and quality
-A good image has one clear focal point, balanced space, suitable contrast and a layout that supports its purpose. Check hands, faces, object geometry, screen text, labels, repeated objects, shadows and background details. AI systems may misspell words or invent details. Add important text later in a design editor instead of relying on generated lettering.
+A prompt does not need every element. Start with the purpose, subject and style; add more detail only when it improves the result. See the [Image Generation and Prompting Guide](IMAGE-GENERATION-PROMPTING-GUIDE.md) for templates and examples.
 
-## 5. Variations and revision
-Change one or two prompt elements at a time. Compare versions against the same purpose and criteria. If the image is nearly correct, use a suitable editing feature or a conventional editor. Do not assume every tool supports the same controls.
+## 4. Composition and quality
+A good image has one clear focal point, balanced space, suitable contrast and a layout that supports its purpose. Useful terms include close-up, medium shot, wide shot, high angle, low angle, rule of thirds, negative space and leading lines. Negative space is especially useful when a poster or thumbnail needs room for a real headline.
+
+Lighting words can shape mood: soft light gives gentle shadows; hard light creates strong shadows; side lighting reveals shape; backlighting can outline a subject. Photography terms such as 85mm lens, shallow depth of field, bokeh and Rembrandt lighting are optional style cues. They do not guarantee accurate physical camera simulation. Beginners do not need to memorise camera models, ISO or aperture settings.
+
+Choose a format that suits the task: landscape 16:9 for a slide or video frame, square 1:1 for a square post, portrait 4:5 for a vertical feed graphic, or 9:16 for a short-video frame. Confirm current platform and tool settings before export.
+
+Check hands, faces, object geometry, screen text, labels, repeated objects, shadows and background details. AI systems can still misspell or invent details. Some tools render text better than others, but always proofread important names, dates, numbers and claims. Add or correct critical text in a design editor.
+
+## 5. Generate, edit and refine
+Generating a new image means describing the whole scene. Editing an existing image means stating exactly what should change and what must remain the same. For example: “Change only the backpack colour to dark blue. Keep the person's pose, clothing, face, background, lighting and framing unchanged.”
+
+Use reference images only when the tool supports them and explain each image's role (for example, pose reference, colour reference or product-shape reference). Obtain permission before using a person's likeness. Do not use private student photos or confidential information. Check the tool's current age and school-account rules; some image-editing features have higher age restrictions than image generation. Never bypass an age restriction.
+
+Improve a result in small steps: generate a first draft, identify the biggest issue, change one or two details, compare versions and keep the best result. Do not assume every tool has the same editing controls.
 
 ## 6. Rights, privacy and responsible use
 Tool terms and commercial-use rights differ. Read the current terms before publishing or selling an output. Do not upload private student photographs, identity documents, confidential records or another person's image without permission. Do not create deceptive evidence, impersonations or harmful images. Label AI-generated content when the audience could reasonably mistake it for documentary photography.
