@@ -1,4 +1,4 @@
-# Lesson 21 — Why AI Matters and Introduction to AI
+# Lesson 21 — Why AI Matters and Introduction to AI.
 
 **Course:** Computer Fundamentals and Artificial Intelligence Foundation Course  
 **Academy:** Next Generation Academy  
